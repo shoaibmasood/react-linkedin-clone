@@ -1,21 +1,25 @@
 .header {
-  margin-top: 10px;
-  margin-bottom: 10px;
+  /* margin-top: 10px; */
+  /* margin-bottom: 10px; */
   display: flex;
   justify-content: space-evenly;
+  border-bottom: 0.1px solid lightgray;
+  background-color: white;
 }
 
 .header__left {
   display: flex;
+  margin: 5px;
 }
 
 .header__search {
   padding: 10px;
+
   display: flex;
   align-items: center;
   background-color: #eef3f8;
   border-radius: 5px;
-  height: 22px;
+  height: 15px;
   color: grey;
 }
 
@@ -26,11 +30,11 @@
 }
 .header__left > img {
   object-fit: contain;
-  height: 40px;
+  height: 35px;
   margin-right: 10px;
 }
 
 .header__right {
-    display: flex;
-    
+  display: flex;
+  margin: 5px;
 }

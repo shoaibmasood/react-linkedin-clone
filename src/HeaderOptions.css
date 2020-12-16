@@ -3,4 +3,26 @@
     display: flex;
     flex-direction:  column;
     align-items: center;
+    color: gray;
+    cursor: pointer;
+
+}
+
+.headerOptions:hover {
+   color: black; 
+}
+
+.headerOptions__icon {
+    object-fit: contain;
+    height: 20px !important;
+}
+
+.headerOptions__icon > img {
+    height: 20px;
+    object-fit: contain;
+}
+
+.headerOptions__title {
+    font-size: 12px;
+    font-weight: 400;
 }

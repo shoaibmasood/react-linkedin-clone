@@ -1,0 +1,25 @@
+.sidebar {
+    flex: 0.3;
+    background-color: white;
+    border-radius: 10px;
+}
+.sidebar__top {
+
+}
+
+.sidebar__stats {
+    display: flex;
+    justify-content: space-between;
+}
+.sidebar_statsNumber{
+    font-weight: bold;
+    color: #0a66c2;
+}
+.sidebar__top > h4 {
+    color: gray;
+    font-size: 12px;
+}
+
+.sidebar__top > h2 {
+    font-size: 18px;
+}
