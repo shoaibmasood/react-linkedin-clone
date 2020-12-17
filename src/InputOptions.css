@@ -1,0 +1,9 @@
+.inputOptions {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    color: gray;
+}
+.inputOptions > h4 {
+    margin-left: 5px;
+}

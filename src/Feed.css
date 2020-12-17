@@ -1,7 +1,36 @@
 .feed {
-    flex: 0.6;
-    background-color: white;
-    margin: 0 20px;
-    border-radius: 10px;
+  flex: 0.6;
+  background-color: white;
+  margin: 0 20px;
+  border-radius: 10px;
+  padding: 10px;
+  padding-bottom: 20px;
+  height: fit-content;
 
+}
+
+
+.feed__inputContainer {
+    
+}
+.feed__input {
+  border: 1px solid lightgray;
+  border-radius: 30px;
+  display: flex;
+  padding: 10px;
+  color: gray;
+  padding-left: 15px;
+}
+
+.feed__input > input {
+  border: none;
+  flex: 1;
+  margin-left: 10px;
+  outline-width: 0;
+  font-weight: 600;
+}
+
+.feed__inputOptionss {
+  display: flex;
+  justify-content: space-evenly;
 }
