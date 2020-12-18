@@ -13,7 +13,10 @@ function Feed() {
       <div className="feed__inputContainer">
         <div className="feed__input">
           <CreateIcon />
-          <input placeholder="Start a Post" />
+          <form>
+            <input placeholder="Start a Post" type="text" />
+            <button type="submit">Send</button>
+          </form>
         </div>
         <div className="feed__inputOptionss">
           <InputOptions Icon={ImageIcon} title="Photo" color="#70B5F9" />

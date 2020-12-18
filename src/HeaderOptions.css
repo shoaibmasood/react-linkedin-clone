@@ -14,7 +14,8 @@
 
 .headerOptions__icon {
     object-fit: contain;
-    height: 20px !important;
+    height: 25px !important;
+    width: 25px !important;
 }
 
 .headerOptions__icon > img {
