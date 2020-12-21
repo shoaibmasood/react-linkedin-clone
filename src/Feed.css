@@ -1,14 +1,11 @@
 .feed {
   flex: 0.6;
   margin: 0 20px;
-  /* background-color: white; */
   border-radius: 10px;
-  padding: 10px;
+  padding: 5px;
   padding-bottom: 20px;
   height: fit-content;
-
 }
-
 
 .feed__inputContainer {
   background-color: white;
@@ -16,7 +13,6 @@
   padding-bottom: 20px;
   border-radius: 10px;
   margin-bottom: 20px;
-
 }
 .feed__input {
   border: 1px solid lightgray;
@@ -32,7 +28,7 @@
   width: 100%;
 }
 
-.feed__input > form >input {
+.feed__input > form > input {
   border: none;
   flex: 1;
   margin-left: 10px;
@@ -40,7 +36,7 @@
   font-weight: 600;
 }
 
-.feed__input >form >button {
+.feed__input > form > button {
   display: none;
 }
 

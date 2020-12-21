@@ -1,0 +1,21 @@
+[debug] [2020-12-21T18:10:05.118Z] ----------------------------------------------------------------------
+[debug] [2020-12-21T18:10:05.120Z] Command:       /home/shoaib/.nvm/versions/node/v13.7.0/bin/node /home/shoaib/.nvm/versions/node/v13.7.0/bin/firebase init
+[debug] [2020-12-21T18:10:05.121Z] CLI Version:   9.0.1
+[debug] [2020-12-21T18:10:05.121Z] Platform:      linux
+[debug] [2020-12-21T18:10:05.121Z] Node Version:  v13.7.0
+[debug] [2020-12-21T18:10:05.122Z] Time:          Mon Dec 21 2020 23:10:05 GMT+0500 (Pakistan Standard Time)
+[debug] [2020-12-21T18:10:05.122Z] ----------------------------------------------------------------------
+[debug] [2020-12-21T18:10:05.122Z] 
+[debug] [2020-12-21T18:10:05.129Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-12-21T18:10:05.130Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/shoaib/Documents/GitHub/react-linkedin-clone
+
